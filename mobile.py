@@ -36,6 +36,7 @@ for user in users:
     ]
 print(random.choice(template))
 
+# template done
 
 
 
