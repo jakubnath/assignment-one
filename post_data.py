@@ -76,7 +76,7 @@ post_data['slug'] = slug
 print(post_data)
 
 
-
+# template done
 
 
 
